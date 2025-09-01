@@ -1,4 +1,4 @@
-#### Tejas's First CS193 Homework
+## Tejas's First CS193 Homework
 - I am excited to learn how to use the terminal and other terminal/command-prompt like things
 - I would like to learn about WSL (I am not sure if we will be learning about it, but the skills will at least help me there!)
 - It's great that it only meets once a week and doesn't have graded tests/quizzes... it is a big relief
